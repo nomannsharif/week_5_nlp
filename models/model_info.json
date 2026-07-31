@@ -1,0 +1,28 @@
+{
+    "model_name": "Logistic Regression",
+    "training_date": "2026-07-30 05:57:42",
+    "dataset_name": "E:\\week 0 IT Simplera\\Week5_NLP_Project\\data\\DataSet (W5).csv",
+    "dataset_size": 3062,
+    "training_samples": 2449,
+    "testing_samples": 613,
+    "training_accuracy": 0.9988,
+    "testing_accuracy": 0.9299,
+    "precision": 0.9335,
+    "recall": 0.9907,
+    "f1_score": 0.9612,
+    "cv_mean_accuracy": 0.9216,
+    "cv_std_dev": 0.0016,
+    "vectorizer_parameters": {
+        "max_features": 5000,
+        "ngram_range": [
+            1,
+            2
+        ],
+        "min_df": 2,
+        "max_df": 0.95,
+        "sublinear_tf": true
+    },
+    "best_hyperparameters": "{'C': 10.0, 'penalty': 'l2', 'solver': 'liblinear'}",
+    "training_time_seconds": 7.0804,
+    "prediction_time_seconds": 0.0006
+}

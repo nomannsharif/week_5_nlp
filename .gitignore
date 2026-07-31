@@ -1,0 +1,19 @@
+# Python & Virtual Environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+ENV/
+
+# Data & Large Artifacts (Keep sample dataset if desired)
+*.log
+.DS_Store
+
+# Streamlit Local Config
+.streamlit/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
