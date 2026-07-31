@@ -191,6 +191,5 @@ Evaluated via 5-Fold Stratified Cross-Validation on holdout test set:
 
 ---
 
-## 📜 License & Author
+## Author: Noman Sharif
 
-Distributed under the MIT License. Built as part of the IT Simplera AI/ML Engineering Internship Program (Week 5).
